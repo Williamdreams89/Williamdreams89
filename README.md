@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 </div>
 <div align="center">
-  <h2>hey there!! 👋</h2>
+  <h2>hey there, William Dreams here 👋!!</h2>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
