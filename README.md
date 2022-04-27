@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me : I am a Full Stack Developer aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.🤠
+### :man_technologist: About Me : I am a Full Stack Developer Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.🤠
 - :telescope: I’m working as Junior Full stack Engineer (way a novice 🤩). The journey this far is very fascinating but kinda fuzzy when bugs shows up 😅
 
 - :seedling: Exploring Technical Content Writing.
