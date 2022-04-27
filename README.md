@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I watch web development tutorials and read tech articles on twitter and telegram.
 -  🔭: I’m currently working on To-do list with Django
-- 🌱: I’m currently learning Vanilla Js & REACT.js 
-- :telescope: Looking forward to Learning Swift in 2023
+- 🌱: On a React and Vanilla Exploration  
+- :telescope: In the future, I'd be looking forward to creating full stack apps with React.js and Django 😍
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com)
 
