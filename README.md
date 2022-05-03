@@ -38,18 +38,15 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me : I'm a Full Stack Developer Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.🤠
-- :telescope: The journey this far is very fascinating but kinda fuzzy when bugs shows up 😅
+- :telescope: Building full stack apps with Django, Django Rest Framework and ReactJs ⛷
+- ⚡ Fun fact: The journey this far is very fascinating but kinda fuzzy when bugs shows up 😅
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Django and ReactJS
 
 - :zap: In my free time, I watch web development tutorials and read tech articles on twitter and telegram.
--  🔭: I’m currently working on To-do list with Django
-- 🌱: On a React and Vanilla Exploration  
-- :telescope: In the future, I'd be looking forward to creating full stack apps with React.js and Django 😍
-
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com) -->
 - :mailbox:How to reach me: <a href="mailto: danquahwilliam89@gmail.com">
-      <img src="https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white" alt="Facebook Badge"/>  
+      <img src="https://img.shields.io/badge/-Danquah William-blue?style=flat&logo=Gmail&logoColor=white" alt="Facebook Badge"/>  
    </a>
 
 ---
