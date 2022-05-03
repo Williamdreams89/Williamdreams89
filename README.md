@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 - 🌱: On a React and Vanilla Exploration  
 - :telescope: In the future, I'd be looking forward to creating full stack apps with React.js and Django 😍
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com) -->
+- :mailbox:How to reach me: <a href="mailto: danquahwilliam89@gmail.com">
+      <img src="https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white" alt="Facebook Badge"/>  
+   </a>
 
 ---
 
