@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 
 ---
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Williamdreams89 &label=Profile%20views&color=0e75b6&style=flat" alt="williamdreams89" /> </p>
 
 ### :man_technologist: About Me : I'm a Full Stack Developer Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.🤠
 - :telescope: Building full stack apps with Django, Django Rest Framework and ReactJs ⛷
