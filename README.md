@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
     <a href="https://linkedin.com/in/william-dreams-b14093193">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - :telescope: Looking pretty much fwd to containerizing my apis and react-apps with Docker 
 - ⚡ Fun fact: The journey this far is very fascinating but kinda fuzzy when bugs shows up 😅
 
-- :seedling: building an api for a student-portal system and a react app (resembling ucc students' portal) to consume the api
+- :seedling: Currently, building a full stack web student portal system, which would be deployed with docker on aws  
 
 - :zap: In my free time, I watch web development tutorials and read tech articles on twitter and telegram.
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com) -->
