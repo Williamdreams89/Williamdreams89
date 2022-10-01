@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Williamdreams89 &label=Profile%20views&color=0e75b6&style=flat" alt="williamdreams89" /> </p>
 
 ### :man_technologist: About Me : I'm a Full Stack Developer Aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.🤠
-- :telescope: Building full stack apps with Django, Django Rest Framework and ReactJs ⛷
+- :telescope: Looking pretty much fwd to containerizing my apis and react-apps with Docker 
 - ⚡ Fun fact: The journey this far is very fascinating but kinda fuzzy when bugs shows up 😅
 
-- :seedling: Django and ReactJS
+- :seedling: building an api for a student-portal system and a react app (resembling ucc students' portal) to consume the api
 
 - :zap: In my free time, I watch web development tutorials and read tech articles on twitter and telegram.
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com) -->
