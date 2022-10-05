@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - :telescope: Looking pretty much fwd to containerizing my apis and react-apps with Docker 
 - ⚡ Fun fact: The journey this far is very fascinating but kinda fuzzy when bugs shows up 😅
 
-- :seedling: Currently, building a full stack web student portal system, which would be deployed with docker on aws  
+- :seedling: Currently, building a full stack web student portal system with Docker which would subsequently be hosted on aws  
 
 - :zap: In my free time, I watch web development tutorials and read tech articles on twitter and telegram.
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William-blue?style=flat&logo=Gmail&logoColor=white)](danquahwilliam89@gmail.com) -->
